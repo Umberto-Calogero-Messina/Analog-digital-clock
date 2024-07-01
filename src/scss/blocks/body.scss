@@ -2,5 +2,11 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: sans-serif;
+  margin: 2rem;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #111;
+  font-family: 'Helvetica', sans-serif;
+  color: white;
 }
