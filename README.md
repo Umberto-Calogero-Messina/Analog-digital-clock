@@ -1,4 +1,4 @@
-# Título del proyecto
+# Analogic - Digital Clock
 
 ![Imagen del proyecto](https://raw.githubusercontent.com/Umberto-Calogero-Messina/Analog-digital-clock/main/src/assets/images/clock_preview.png)
 
@@ -23,7 +23,7 @@ Este proyecto consiste en una pantalla web que muestra dos relojes: uno analógi
 
 **Umberto Calogero Messina**
 
-- [micorreo@midominio.com](ucmessina@gmail.com)
+- [ucmessina@gmail.com](ucmessina@gmail.com)
 
 ## Instalación
 
