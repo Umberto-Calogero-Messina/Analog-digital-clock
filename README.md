@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](https://umberto-calogero-messina.github.io/Analog-digital-clock/)
+- [Analogic-Digital-Clock](https://umberto-calogero-messina.github.io/Analog-digital-clock/)
 
 ## Descripción 📑
 
